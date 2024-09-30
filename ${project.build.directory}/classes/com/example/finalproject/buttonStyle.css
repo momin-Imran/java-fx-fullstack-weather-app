@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+.button {
+-fx-font-family: 'DM Serif Display', serif;
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-background-radius: 50px;
+    -fx-border-radius: 50px;
+    -fx-border-color: white;
+    -fx-border-width: 2px;
+
+}
+
+.button:hover {
+
+-fx-font-size: 12.35;
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+
+}

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+.label {
+    -fx-font-family: 'DM Serif Display', serif;
+    -fx-font-size: 50px;
+    -fx-text-fill: white;
+    -fx-text-transform: uppercase;
+    -fx-font-weight: bold;
+    -fx-vertical-align: baseline;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.8), 0, 0, 0, 1);
+
+}

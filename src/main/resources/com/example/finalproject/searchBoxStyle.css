@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
+
+.locationText {
+    font-family: 'Pathway Gothic One', sans-serif;
+    -fx-font-weight: bold;
+
+}
