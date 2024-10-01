@@ -1,5 +1,10 @@
 # **JavaFX Weather App**
 
+![GMP_U2F2ZUdNQVgwMQ==](https://github.com/user-attachments/assets/63ed4484-ee8e-4050-b2e9-a9c2e0415a91)
+
+
+
+
 ## **Description**
 
 This is not your traditional weather app—it's a modern, visually appealing application built using **JavaFX**. With seamless animations, custom CSS classes, and a smooth user interface, this weather app offers an engaging and user-friendly experience. The app integrates with **OpenWeather’s API** to fetch real-time weather data for various geographic locations.
