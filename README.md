@@ -7,7 +7,7 @@
 
 ## **Description**
 
-This is not your traditional weather app—it's a modern, visually appealing application built using **JavaFX**. With seamless animations, custom CSS classes, and a smooth user interface, this weather app offers an engaging and user-friendly experience. The app integrates with **OpenWeather’s API** to fetch real-time weather data for various geographic locations.
+This is not your traditional weather app, or even the typical console-based Java app—it's a modern, visually appealing application built using **JavaFX**. With seamless animations, custom CSS classes, and a smooth user interface, this weather app offers an engaging and user-friendly experience. The app integrates with **OpenWeather’s API** to fetch real-time weather data for various geographic locations.
 
 ## **Features**
 
